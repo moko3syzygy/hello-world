@@ -1,2 +1,2 @@
 # hello-world
-Just trial repository
+Just a trial to be ready for update org contribution
